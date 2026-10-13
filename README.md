@@ -286,6 +286,9 @@ security.
 Read the complete [Privacy Policy](PRIVACY.md) and the instructions for
 [reporting security issues](SECURITY.md).
 
+Upgrading to a newer portable release while keeping your data:
+[docs/PORTABLE_UPGRADE.md](docs/PORTABLE_UPGRADE.md).
+
 ## Categories
 
 Activity is categorized with case-insensitive keywords from `config.json`. If
