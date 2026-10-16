@@ -63,6 +63,11 @@ py -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
+If your Windows environment does not have the `py` launcher, see
+[Troubleshoot a missing Windows py launcher](SUPPORT.md#troubleshoot-a-missing-windows-py-launcher)
+to create `.venv` with an existing Python executable without changing security
+settings.
+
 `upstream` is optional. Use it when you want to update your fork from the
 original repository. Create a focused branch before editing:
 
